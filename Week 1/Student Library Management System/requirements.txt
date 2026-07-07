@@ -1,0 +1,3 @@
+# Student Library Management System Requirements
+# This project uses only the Python Standard Library (JSON, OS, Sys).
+# No external dependencies are required.

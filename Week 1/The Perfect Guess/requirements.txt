@@ -1,0 +1,5 @@
+# No external dependencies required.
+# This project uses Python 3 standard library modules only:
+# - random (for generating the target numbers)
+# - json (for structured persistent high score and statistics storage)
+# - os (for path checking and operations)
