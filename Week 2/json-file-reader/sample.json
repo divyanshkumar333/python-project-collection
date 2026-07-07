@@ -1,0 +1,17 @@
+{
+  "name": "Divyansh Kumar",
+  "roll_number": "AIDS2026042",
+  "course": "B.Tech AI & Data Science",
+  "college": "MITS Gwalior",
+  "semester": 4,
+  "marks": {
+    "Python": 92,
+    "DBMS": 88,
+    "Operating Systems": 90
+  },
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "SQL"
+  ]
+}

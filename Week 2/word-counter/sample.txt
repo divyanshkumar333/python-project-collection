@@ -1,0 +1,10 @@
+The Python programming language was created by Guido van Rossum in the late 1980s.
+It was designed to be easy to read and simple to implement, emphasizing developer productivity.
+
+Over the years, Python has grown to become one of the most popular programming languages globally.
+It is widely used in data science, web development, artificial intelligence, and automation.
+
+Learning programming can sometimes feel challenging, but consistent practice makes it much easier.
+Remember to write clean code, handle unexpected errors gracefully, and document your projects.
+
+Have fun building your Word Counter application!
