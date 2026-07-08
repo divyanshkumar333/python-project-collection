@@ -1,0 +1,1 @@
+# Only standard Python libraries are used. No external dependencies required.

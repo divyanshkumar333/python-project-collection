@@ -1,0 +1,38 @@
+{
+    "CUST-1001": {
+        "customer_id": "CUST-1001",
+        "name": "Divyansh Kumar",
+        "phone": "9876543210",
+        "email": "divyansh@example.com",
+        "purchase_history": [],
+        "loyalty_points": 600,
+        "tier": "Silver"
+    },
+    "CUST-1002": {
+        "customer_id": "CUST-1002",
+        "name": "Rahul Verma",
+        "phone": "9876543211",
+        "email": "rahul@example.com",
+        "purchase_history": [],
+        "loyalty_points": 0,
+        "tier": "Bronze"
+    },
+    "CUST-1003": {
+        "customer_id": "CUST-1003",
+        "name": "Priya Sharma",
+        "phone": "9876543212",
+        "email": "priya@example.com",
+        "purchase_history": [],
+        "loyalty_points": 0,
+        "tier": "Bronze"
+    },
+    "CUST-1004": {
+        "customer_id": "CUST-1004",
+        "name": "Ananya Singh",
+        "phone": "9876543213",
+        "email": "ananya@example.com",
+        "purchase_history": [],
+        "loyalty_points": 0,
+        "tier": "Bronze"
+    }
+}

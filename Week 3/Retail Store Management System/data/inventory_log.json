@@ -1,0 +1,50 @@
+[
+    {
+        "timestamp": "2026-07-08T00:56:57.088999",
+        "product_id": "PROD-1001",
+        "action": "Product Added",
+        "details": "Initial stock setup: 50 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.089859",
+        "product_id": "PROD-1002",
+        "action": "Product Added",
+        "details": "Initial stock setup: 30 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.099044",
+        "product_id": "PROD-1003",
+        "action": "Product Added",
+        "details": "Initial stock setup: 15 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.107231",
+        "product_id": "PROD-1004",
+        "action": "Product Added",
+        "details": "Initial stock setup: 20 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.117134",
+        "product_id": "PROD-1005",
+        "action": "Product Added",
+        "details": "Initial stock setup: 2 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.125918",
+        "product_id": "PROD-1006",
+        "action": "Product Added",
+        "details": "Initial stock setup: 12 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.134700",
+        "product_id": "PROD-1007",
+        "action": "Product Added",
+        "details": "Initial stock setup: 5 units."
+    },
+    {
+        "timestamp": "2026-07-08T00:56:57.142663",
+        "product_id": "PROD-1008",
+        "action": "Product Added",
+        "details": "Initial stock setup: 8 units."
+    }
+]

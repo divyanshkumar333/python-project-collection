@@ -1,0 +1,66 @@
+{
+    "PROD-1001": {
+        "product_id": "PROD-1001",
+        "name": "Rice",
+        "category": "Grocery",
+        "cost_price": 40.0,
+        "price": 60.0,
+        "quantity": 50
+    },
+    "PROD-1002": {
+        "product_id": "PROD-1002",
+        "name": "Milk",
+        "category": "Grocery",
+        "cost_price": 25.0,
+        "price": 35.0,
+        "quantity": 30
+    },
+    "PROD-1003": {
+        "product_id": "PROD-1003",
+        "name": "Keyboard",
+        "category": "Electronics",
+        "cost_price": 800.0,
+        "price": 1200.0,
+        "quantity": 15
+    },
+    "PROD-1004": {
+        "product_id": "PROD-1004",
+        "name": "Mouse",
+        "category": "Electronics",
+        "cost_price": 200.0,
+        "price": 400.0,
+        "quantity": 20
+    },
+    "PROD-1005": {
+        "product_id": "PROD-1005",
+        "name": "SSD",
+        "category": "Electronics",
+        "cost_price": 2500.0,
+        "price": 3500.0,
+        "quantity": 2
+    },
+    "PROD-1006": {
+        "product_id": "PROD-1006",
+        "name": "Python Programming Book",
+        "category": "Books",
+        "cost_price": 300.0,
+        "price": 450.0,
+        "quantity": 12
+    },
+    "PROD-1007": {
+        "product_id": "PROD-1007",
+        "name": "Laptop",
+        "category": "Electronics",
+        "cost_price": 35000.0,
+        "price": 45000.0,
+        "quantity": 5
+    },
+    "PROD-1008": {
+        "product_id": "PROD-1008",
+        "name": "Headphones",
+        "category": "Accessories",
+        "cost_price": 1200.0,
+        "price": 1800.0,
+        "quantity": 8
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "account_holder": "Divyansh Kumar",
+    "account_number": "21",
+    "balance": 15170.0,
+    "transactions": [
+        {
+            "timestamp": "2026-07-08T00:28:17.261994",
+            "type": "Opening",
+            "amount": 0.0,
+            "description": "Account created with \u20b90.00 balance",
+            "balance_after": 0.0
+        },
+        {
+            "timestamp": "2026-07-08T00:28:17.262711",
+            "type": "Deposit",
+            "amount": 20000.0,
+            "description": "Cash Deposit",
+            "balance_after": 20000.0
+        },
+        {
+            "timestamp": "2026-07-08T00:28:17.263618",
+            "type": "Withdrawal",
+            "amount": 5000.0,
+            "description": "Withdrawal (Food)",
+            "balance_after": 15000.0
+        },
+        {
+            "timestamp": "2026-07-08T00:29:09.325060",
+            "type": "Deposit",
+            "amount": 200.0,
+            "description": "Cash Deposit",
+            "balance_after": 15200.0
+        },
+        {
+            "timestamp": "2026-07-08T00:29:14.397227",
+            "type": "Withdrawal",
+            "amount": 10.0,
+            "description": "Withdrawal (Entertainment)",
+            "balance_after": 15190.0
+        },
+        {
+            "timestamp": "2026-07-08T00:29:27.133237",
+            "type": "Transfer",
+            "amount": 20.0,
+            "description": "Transfer to dix (A/C: 102)",
+            "balance_after": 15170.0
+        }
+    ]
+}

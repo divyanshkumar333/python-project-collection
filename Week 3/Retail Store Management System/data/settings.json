@@ -1,0 +1,11 @@
+{
+    "store_name": "Apna Bazaar",
+    "store_address": "Sector 62, Noida, UP - 201301",
+    "store_phone": "0120-4567890",
+    "welcome_msg": "Welcome to our store!",
+    "thank_you_msg": "Thank you for shopping with us! Visit again.",
+    "gst_rate": 18.0,
+    "currency_symbol": "₹",
+    "invoice_prefix": "INV",
+    "low_stock_threshold": 3
+}
