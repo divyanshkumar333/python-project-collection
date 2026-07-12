@@ -1,0 +1,73 @@
+========================================
+       EMPLOYEE ANALYTICS REPORT        
+========================================
+
+Generated On: 2026-07-08 12:04:07
+
+--- Dataset Summary ---
+Total Employees: 200
+Total Departments: 10
+Average Salary: ₹1,281,757.92
+Highest Salary: ₹2,247,736.00
+Lowest Salary: ₹307,491.00
+Average Experience: 17.7 years
+Average Performance Rating: 3.0/5.0
+
+--- Experience Statistics ---
+Most Experienced: Sai Gupta (38 yrs)
+Least Experienced: Vihaan Mishra (0 yrs)
+
+--- Performance Statistics ---
+Employees with Highest Rating (5.0): 46
+
+--- Department Statistics ---
+[AI & Data Science]
+  Headcount: 24
+  Average Salary: ₹1,116,002.29
+  Average Rating: 2.9/5.0
+
+[Cloud Engineering]
+  Headcount: 19
+  Average Salary: ₹1,374,641.26
+  Average Rating: 3.1/5.0
+
+[Cyber Security]
+  Headcount: 17
+  Average Salary: ₹1,249,017.24
+  Average Rating: 2.9/5.0
+
+[Data Analytics]
+  Headcount: 23
+  Average Salary: ₹1,355,893.04
+  Average Rating: 3.3/5.0
+
+[DevOps]
+  Headcount: 23
+  Average Salary: ₹1,429,645.83
+  Average Rating: 3.6/5.0
+
+[Finance]
+  Headcount: 23
+  Average Salary: ₹1,427,773.39
+  Average Rating: 2.8/5.0
+
+[Human Resources]
+  Headcount: 21
+  Average Salary: ₹1,049,908.67
+  Average Rating: 3.1/5.0
+
+[Marketing]
+  Headcount: 14
+  Average Salary: ₹1,377,145.71
+  Average Rating: 3.2/5.0
+
+[Operations]
+  Headcount: 15
+  Average Salary: ₹1,376,334.07
+  Average Rating: 2.4/5.0
+
+[Software Development]
+  Headcount: 21
+  Average Salary: ₹1,111,273.14
+  Average Rating: 3.0/5.0
+
